@@ -6,5 +6,6 @@ public class rotatearrayusingnewaray {
 
 
         System.out.println(arr.length);
+        System.out.println("apne sse");
     }
 }
